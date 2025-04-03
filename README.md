@@ -34,6 +34,7 @@ Den korrekta lottoraden:
 11
 6
 22
+
 Antal rätt: 0
 Du vann tyvärr inget denna gången.
 
